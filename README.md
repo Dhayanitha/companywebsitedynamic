@@ -161,7 +161,7 @@ Publish the website in the given URL.
 
 ![output](./static/img/page2.jpg)
 
-![output](./static/img/page3.jpg)
+![output](./static/img/page5.jpg)
 
 ![output](./static/img/page4.jpg)
 
