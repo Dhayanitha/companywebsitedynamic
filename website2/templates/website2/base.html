@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Silicon Private Limited</title>
+    <link rel="stylesheet" href="{% static 'css/web2.css' %}">
+    <link rel = "icon" href ="{% static 'img/titleicon.png' %}" type = "image/x-icon"> 
+              
+</head>
+
+<body>
+    <div class="container">
+    <div class="banner">
+        D.Silicon Private Limited.
+    </div>
+    <div class="menu">
+        <div class="menuitem"><a href="/home">home</a></div> 
+        <div class="menuitem"><a href="/products">Products</a></div> 
+        <div class="menuitem"><a href="/people">People</a></div>
+        <div class="menuitem"><a href="/contact">Contact Us</a></div> 
+    </div><div class="content">
+    {% block content %}    
+    {% endblock  %}
+    </div>
+    <div class="footer">
+        Copyright © 2020 D.Silicon Private Limited, Developed by Dhayanitha.
+    </div>
+    </div>
+</body>
+
+</html>
