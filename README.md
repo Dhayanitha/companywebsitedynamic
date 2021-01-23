@@ -172,7 +172,7 @@ Publish the website in the given URL.
 
 ![output](./static/img/report6.jpg)
 
-![output](./static/img/report4.jpg)
+![output](./static/img/report7.jpg)
 
 ![output](./static/img/report5.jpg)
 
